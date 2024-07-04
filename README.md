@@ -1,7 +1,7 @@
 # Resume generator
 Web based editor to create Resume in a customizable template with the facility to save the file in .pdf formate.  
   
-###### Live Demo : https://vinaysomawat.github.io/Resume-Builder/
+###### Live Demo : https://theshreyaa.github.io/Resume-Builder/
 
 ###### Technologies: HTML, CSS, JavaScript
 
@@ -34,11 +34,11 @@ To setup the project on your local machine:
 
 1. Click on `Fork`.
 2. Go to your fork and `clone` the project to your local machine.
-3. `git clone https://github.com/vinaysomawat/Resume-Builder.git`
+3. `git clone https://github.com/theshreyaa/Resume-Builder.git`
 
 To contribute to the project:
 
-1. Choose any open issue from [here](https://github.com/vinaysomawat/Resume-Builder/issues). 
+1. Choose any open issue from [here](https://github.com/theshreyaa/Resume-Builder/issues). 
 2. Comment on the issue: `Can I work on this?` and get assigned.
 3. Make changes to your fork and send a PR.
 
